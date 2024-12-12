@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pro247
 - 👀 I’m interested in software engineering and designing
 - am also interested in network engineering
-- 🌱 I’m currently learning UI/UX designing, XR development
+- 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on UI/UX designing and network engineering
 - 📫 How to reach me email. doreen4abel@gmail.com
 - pronouns: she
